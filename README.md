@@ -1,16 +1,14 @@
-### Hi there 👋
+### Abdulrasheed Adesina 👋  
 
-<!--
-**aaajr97/aaajr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](welcome.gif)
 
-Here are some ideas to get you started:
+Currently training as a Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MEng Chemical Engineering (Uni of Bradford)
+- 🌱 I’m currently learning SQL
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about nothing
+- 📫 How to reach me: aaajr97@outlook.com
+- ⚡ Fun fact: Venus rotates on its axis only once every 243 Earth days but orbits the sun once every 224.65 Earth days. This means that on Venus, a day is longer than a year
+
+# __ENJOY__
