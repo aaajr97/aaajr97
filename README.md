@@ -6,8 +6,6 @@ Currently training as a Data Engineer
 
 - 🎓 MEng Chemical Engineering (Uni of Bradford)
 - 🌱 I’m currently learning SQL
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about nothing
 - 📫 How to reach me: aaajr97@outlook.com
 - ⚡ Fun fact: Venus rotates on its axis only once every 243 Earth days but orbits the sun once every 224.65 Earth days. This means that on Venus, a day is longer than a year
 
