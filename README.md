@@ -2,7 +2,7 @@
 
 ![](welcome.gif)
 
-Currently training as a Data Engineer
+Data Engineer
 
 - 🎓 MEng Chemical Engineering (Uni of Bradford)
 - 🌱 I’m currently learning SQL
